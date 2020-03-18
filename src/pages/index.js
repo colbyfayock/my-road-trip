@@ -6,6 +6,8 @@ import Layout from 'components/Layout';
 import Container from 'components/Container';
 import Map from 'components/Map';
 
+import { locations } from 'data/locations';
+
 const LOCATION = {
   lat: 38.9072,
   lng: -77.0369
