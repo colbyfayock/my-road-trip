@@ -66,6 +66,10 @@
   padding-bottom: 4em;
 
   h2 {
+    font-family: $font-display;
+    color: $deep-orange-900;
+    font-size: 2em;
+    font-weight: normal;
     margin-top: 0;
   }
 
@@ -112,7 +116,6 @@
   }
 
 }
-
 
 .trip-stop-image {
   display: block;
