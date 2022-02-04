@@ -1,15 +1,17 @@
-# Road Trip Map Demo
+# Road Trip Mapping App in Gatsby with React Leaflet
 
-Learn how to create your own with [How to Create a Mapping App in React: Summer Road Trip with Gatsby and React Leaflet](https://www.youtube.com/watch?v=FkO8uggDEXY)
+Demo for tutorial [How to Create a Summer Road Trip Mapping App with Gatsby and Leaflet](https://www.youtube.com/watch?v=FkO8uggDEXY)
 
-## Getting started locally
-* `yarn install`
-* `yarn develop`
-* 🚀
+🚀 See Demo: https://my-road-trip.netlify.com/
 
-## Spin up your own mapping app!
-Check out [Gatsby Starter Leaflet](https://github.com/colbyfayock/gatsby-starter-leaflet)
+📝 Article: https://www.colbyfayock.com/posts/how-to-create-a-summer-road-trip-mapping-app-with-gatsby-and-leaflet
+
+📺 YouTube: https://www.youtube.com/watch?v=FkO8uggDEXY
 
 ## More tutorials and walkthroughs
-* [Follow me on Twitter](https://twitter.com/colbyfayock)
-* [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
+
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
